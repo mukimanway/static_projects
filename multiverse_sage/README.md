@@ -1,7 +1,7 @@
 # Metaverse Sage
 
-![Metaverse Sage]([https://your-image-link.com/banner.png](https://files.oaiusercontent.com/file-2pHnTqeAUb7ZRDm2RTD9rd?se=2025-03-26T17%3A47%3A06Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D0d92201a-376b-4f77-a781-f33558fb4b76.webp&sig=gSvn5eERn68F%2B7CLLqEGnnhHCwvUe8hl7/T6pyEv%2BOA%3D))  
-_A seamless and immersive web experience for the Metaverse._
+![Metaverse Sage]
+_A seamless and immersive web experience for the Metaverse._🌌🧙‍♂️
 
 ## 🌐 Live Demo
 Check out the live version here: [Metaverse Sage](https://metaverse-sage-psi.vercel.app/)
